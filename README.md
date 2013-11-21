@@ -24,6 +24,11 @@ to <a href="http://glitchthegame.com">glitchthegame.com</a>, our permanent
 Tiny Speck (<a href="http://tinyspeck.com">tinyspeck.com</a>) and/or Slack 
 (<a href="http://slack.com">slack.com</a>) are appreciated.
 
+## SVG Port Contributors ##
+Trophies - Paul VanKeuren
+
+
+
 ## What you'll find in here: ##
 
 If it's not a location and it's not an avatar, it's probably in here. Anything
